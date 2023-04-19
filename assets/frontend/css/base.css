@@ -1,0 +1,23 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --primary-color: #024daf;
+    --boder-color: #dbdbdb;
+    --start-gold-color: #f7cf56;
+    --header-height: 120px;
+    --navbar-height: 34px;
+    --header-with-search-height: calc(var( --header-height) - var(--navbar-height) );
+}
+* {
+    box-sizing: inherit;     /* ke thua the tr */
+}
+html {
+    font-size: 62.5%; /* 100%=16px */
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+form#frmdangky {
+    font-size: 90%!important;
+}

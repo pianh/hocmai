@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.pd-bottom-login {
+    padding-bottom: 200px;
+}
+.pd-bottom-380 {
+    padding-bottom: 380px;
+}
+.pd-bottom-dasboard {
+    padding-bottom: 150px;
+}
+.pd-bottom-100 {
+    padding-bottom: 100px;
+}
+.pd-bottom-150 {
+    padding-bottom: 150px;
+}
+.pd-bottom-250 {
+    padding-bottom: 250px;
+}
+.pd-bottom-300 {
+    padding-bottom: 300px;
+}
+.pd-bottom-400 {
+    padding-bottom: 400px;
+}
+form#frmLogin {
+    margin-top: 60px;
+}
+
+button#refreshThongKeNhomKhoaHoc, button#refreshThongKeBaigiangKhoaHoc, button#refreshThongKeVideoKhoaHoc {
+    display: block;
+    margin: 10px auto;
+ 
+}
+
